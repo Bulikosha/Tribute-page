@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+}
+
+#main {
+	background-color: #eee;
+}
+
+h1 {
+	padding-top: 30px;
+}
+
+#img-div {
+	margin: 20px 15px;
+	background-color: #fff;
+}
+
+#img-div #img-caption {
+	margin: 15px;
+	font-size: 15px;
+	padding-bottom: 20px;
+}
+
+#image {
+	max-width: 100%;
+	display: block;
+	height: auto;
+	margin: auto;
+}
